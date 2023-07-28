@@ -4,7 +4,7 @@ Demo You can access the live demo of the application by going through the link g
 
 ([https://github-production-user-asset-6210df.s3.amazonaws.com/108828387/253873688-36a67198-b40e-4746-a100-5cc543aebe62.mp4])
 
-if you want to see user experience, you can go to link given below
+if you want to visit the site, you can go to link given below
 
 ([https://chat-app-jzgr.onrender.com])
 
